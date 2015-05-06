@@ -42,7 +42,7 @@ public class DeeplearnService {
 	private DPImgDao imgDao;
 
 	//private String BASE_URL = "http://dpic.nextcenter.org/";
-	private String    BASE_URL = "http://172.29.32.33:6066/";
+	private String    BASE_URL = "http://202.119.84.33:6066/";
 	private int       imgPageSize = 56;
 
 	@Autowired
